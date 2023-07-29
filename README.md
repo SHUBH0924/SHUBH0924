@@ -8,9 +8,9 @@ I am currently pursuing a Bachelor's degree from Allenhouse Institute of Technol
 
 * 🌍  I'm based in Kanpur
 * ✉️  You can contact me at [shubhjeetpaul@gmail.com](mailto:shubhjeetpaul@gmail.com)
-* 🧠  I'm learning react and next js frameworks.
-* 🤝  I'm open to collaborating on Full Stack Projects
-* ⚡  I'm enthusiastic person and Marvel Fan
+* 🧠  I'm learning React and Next js frameworks.
+* 🤝  I'm open to collaborating on Full Stack Projects.
+* ⚡  I'm an enthusiastic person and Marvel Fan.
 
 <a href="https://www.twitter.com/OShubh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OShubh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
