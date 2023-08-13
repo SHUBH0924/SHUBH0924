@@ -1,7 +1,7 @@
 Hi 👋 My name is Shubhjeet Paul
 ===============================
 
-Frontend Developer and Software Engineer
+Full-Stack Developer
 ----------------------------------------
 
 I am currently pursuing a Bachelor's degree from Allenhouse Institute of Technology.
